@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 # Sistem Manajemen Stasiun Pengisian Kendaraan Listrik
 
 Program Python ini merupakan sistem sederhana untuk mengelola kendaraan listrik, stasiun pengisian, pelanggan, karyawan, dan transaksi pengisian daya. Program ini menerapkan konsep Object-Oriented Programming (OOP), seperti class dan object, encapsulation, inheritance, abstraction, polymorphism, duck typing, operator overloading, serta relasi antarobjek (asosiasi, agregasi, komposisi, dan dependency).
@@ -87,4 +84,3 @@ Contoh hasil (teks pesan dapat berbeda bergantung versi Python):
 ## Output Program
 ![alt text](<OUTPUT 1.png>)
 ![alt text](<OUTPUT 2.png>)
->>>>>>> fb8b8d3 (UP PBO, PLS MATLIS HUAAAAAAAA)
