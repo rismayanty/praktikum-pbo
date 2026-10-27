@@ -4,7 +4,7 @@ Program Python ini merupakan sistem sederhana untuk mengelola kendaraan listrik,
 
 ## Class Diagram UML
 
-![alt text](<UML PBO.drawio.png>)
+![alt text](UML.png)
 
 Keterangan relasi:
 - **Inheritance**: `MobilListrik` dan `MotorListrik` mewarisi class `KendaraanListrik`.
@@ -76,7 +76,6 @@ Class `NotifikasiEmail` dan `NotifikasiSMS` tidak memiliki hubungan inheritance,
 ## Bukti Abstraksi
 Pada bagian `[TEST 3] ABSTRAKSI`, program mencoba membuat objek `MetodePembayaran`. Karena class tersebut memiliki abstract method yang belum diimplementasikan, Python menangkap `TypeError` dan menampilkan pesan bahwa abstract class tidak dapat dibuat menjadi objek secara langsung.
 
-Contoh hasil (teks pesan dapat berbeda bergantung versi Python):
 
 [TEST] membuktikan class ABC tidak bisa di-instansiasi:
 [ERROR TERDETEKSI] Can't instantiate abstract class MetodePembayaran without an implementation for abstract methods 'cetak_struk', 'proses_pembayaran'
